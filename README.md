@@ -50,7 +50,7 @@ El código está estructurado en una serie de funciones en Python, con un enfoqu
 El script crea un gráfico de barras apiladas para visualizar los entornos en diferentes países, que es una excelente forma de analizar la distribución de servidores en función del país y el entorno. Los gráficos se generan con `matplotlib` y se almacenan localmente.
 
 ### Ejemplo de Gráfico
-![Gráfico de Hosts por País y Entorno](path/to/your/chart_image.png)
+![Gráfico de Hosts por País y Entorno](hostnames.png)
 
 ## Contribuciones
 
